@@ -30,14 +30,14 @@ module.exports = () => {
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E',
         description: 'Takes notes with JavaScript syntax highlighting!',
-        start_url: '.',
+        start_url: './',
         theme_color: '#225ca3',
         background_color: '#225ca3',
         icons: [
           {
             src: './src/images/logo.png',
-            sizes: '512x512',
-            type: 'image/png'
+            sizes: [96, 128, 192, 256, 384, 512],
+            type: 'assets/icons'
           }
         ]
       })
