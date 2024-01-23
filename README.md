@@ -1,6 +1,9 @@
 # angelo-text-editor
 Module 19 Challenge for UT Full-Stack Bootcamp
 
+## Resources
+[Starter Code](https://github.com/coding-boot-camp/cautious-meme)
+
 GIVEN a text editor web application
 
 ```
